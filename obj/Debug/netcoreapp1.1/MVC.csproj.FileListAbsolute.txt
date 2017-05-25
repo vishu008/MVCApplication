@@ -1,0 +1,8 @@
+/Users/vishalparbhakar/Desktop/MVC/bin/Debug/netcoreapp1.1/MVC.deps.json
+/Users/vishalparbhakar/Desktop/MVC/bin/Debug/netcoreapp1.1/MVC.runtimeconfig.json
+/Users/vishalparbhakar/Desktop/MVC/bin/Debug/netcoreapp1.1/MVC.runtimeconfig.dev.json
+/Users/vishalparbhakar/Desktop/MVC/bin/Debug/netcoreapp1.1/MVC.dll
+/Users/vishalparbhakar/Desktop/MVC/bin/Debug/netcoreapp1.1/MVC.pdb
+/Users/vishalparbhakar/Desktop/MVC/obj/Debug/netcoreapp1.1/MVC.AssemblyInfo.cs
+/Users/vishalparbhakar/Desktop/MVC/obj/Debug/netcoreapp1.1/MVC.dll
+/Users/vishalparbhakar/Desktop/MVC/obj/Debug/netcoreapp1.1/MVC.pdb
